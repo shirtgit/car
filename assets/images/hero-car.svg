@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" role="img" aria-label="Hero car">
+  <rect width="800" height="480" fill="none"/>
+  <g transform="translate(40,80)" fill="#ffffff" opacity="0.95">
+    <rect x="0" y="80" width="640" height="120" rx="14" fill="#ffffff"/>
+    <rect x="40" y="40" width="480" height="80" rx="30" fill="#ffffff"/>
+    <circle cx="140" cy="210" r="30" fill="#0f1720"/>
+    <circle cx="460" cy="210" r="30" fill="#0f1720"/>
+  </g>
+</svg>
